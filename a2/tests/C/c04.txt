@@ -1,0 +1,4 @@
+Count[03]=04; (words: "dog", "fox" and "the")
+Count[04]=02; (words: "lazy" and "over")
+Count[05]=02; (words: "brown" and "quick")
+Count[06]=01; (words: "jumped")

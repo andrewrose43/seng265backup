@@ -1,0 +1,77 @@
+SENG 265 -- FALL 2017
+ASSIGNMENT #3 EVALUATION
+========================
+
+  Student name:   Rose,Andrew
+  Student number: V00884894 (demo)
+  Student login:  andrewrose
+
+-----
+(1) word_count.py and ferry_delays.py provided; 
+
+word_count.py found.
+ferry_delays.py found.
+
+-----
+(1) Part A - Print out words in bucket 
+
+(a) Tests 05-13 :  
+
+TEST A05: passed TEST A06: passed TEST A07: passed TEST A08: passed TEST A09: passed
+
+TEST A10: passed TEST A11: passed TEST A12: passed TEST A13: passed 
+
+(b) Tests 05-13 : with --sort, --print-words 
+
+TEST B05: FAILED TEST B06: FAILED TEST B07: FAILED TEST B08: FAILED TEST B09: FAILED 
+
+TEST B10: FAILED TEST B11: FAILED TEST B12: FAILED TEST B13: FAILED 
+
+
+(3) Part B - BC Ferries 
+
+(a) Tests 01-06 : Provided input file tests
+
+TEST C01: passed TEST C02: FAILED TEST C03: passed
+
+TEST C04: FAILED TEST C05: FAILED TEST C06: passed
+
+(b) Tests 01-06:
+
+TEST D01: passed TEST D02: passed TEST D03: passed
+
+TEST D04: FAILED TEST D05: FAILED TEST D06: passed
+
+(c) Tests 01-06:
+
+TEST E01: passed TEST E02: passed TEST E03: passed
+
+TEST E04: FAILED TEST E05: FAILED TEST E06: passed
+
+(4) Parameter tests 
+
+=PARTF01=
+=PARTF02=
+=PARTF03=
+=PARTF04=
+
+
+-----
+(7) Additional test notes 
+
+Word Count
+ - All tests pass
+
+Ferry Delay
+ - Input loop not running continously
+ - averages are correct but only when running in correct order
+-----
+
+-----
+(8) Code inspection
+
+- Suggest using functions for better code organization and structure
+
+
+GRADE:
+B 

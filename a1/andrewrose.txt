@@ -1,0 +1,67 @@
+SENG 265 -- FALL 2017
+ASSIGNMENT #1 EVALUATION
+========================
+
+  Student name:   Rose,Andrew
+  Student number: V00884894
+  Student login:  andrewrose
+
+-----
+(1) word_count.c provided; code compiles into an executable
+
+Compile: passed ( 0 warnings)
+
+-----
+(2) Part A - Word length counts 
+
+(a) Tests 01-05 
+
+01: passed 02: passed 03: passed 04: passed 05: passed
+
+(b) Tests 06-10 
+
+06: passed 07: passed 08: passed 09: passed 10: passed
+
+-----
+(3) Part B - Sort by word frequency 
+
+(a) Tests 01-05 
+
+01: passed 02: passed 03: passed 04: passed 05: passed
+
+(b) Tests 06-10 
+
+06: passed 07: passed 08: passed 09: passed 10: passed
+
+-----
+(4) Part C - Print out words in bucket 
+
+(a) Tests 01-05 
+
+01: passed 02: FAILED 03: FAILED 04: FAILED 05: FAILED
+
+(b) Tests 06-10 
+
+06: FAILED 07: FAILED 08: FAILED 09: FAILED 10: FAILED
+
+-----
+(5) Additional test notes 
+
+ - Part C not implemented
+
+-----
+(6) Provided testfile and description
+
+input_file.txt found.
+count_readme.md found.
+
+good!
+-----
+(7) Code inspection
+
+- nicely organized and commented code
+- don't hard code numbers in code for loops and array sizes - you have MAX_WORD_LEN why not use it.
+- make sure to close the file when you're done with it
+
+GRADE:
+B 

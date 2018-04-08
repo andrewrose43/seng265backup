@@ -1,0 +1,4 @@
+:RESULTS
+Tsawwassen:
+    Average delay for Jul: 5.60
+END

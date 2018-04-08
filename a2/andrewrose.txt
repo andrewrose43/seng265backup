@@ -1,0 +1,95 @@
+SENG 265 -- FALL 2017
+ASSIGNMENT #2 EVALUATION
+========================
+
+  Student name:   Rose,Andrew
+  Student number: V00884894
+  Student login:  andrewrose
+    
+
+-----
+(1) word_count.c provided; code compiles into an executable
+
+Compile: passed ( 2 warnings)
+
+-----
+(2) Part A - Word length counts 
+
+(a) Tests 01-05 
+
+TEST A01: passed TEST A02: FAILED TEST A03: FAILED TEST A04: FAILED TEST A05: FAILED
+
+(b) Tests 06-10 
+
+TEST A06: FAILED TEST A07: FAILED TEST A08: FAILED TEST A09: FAILED TEST A10: FAILED
+
+-----
+(3) Part B - Sort by word frequency 
+
+(a) Tests 01-05 
+
+TEST B01: passed TEST B02: FAILED TEST B03: FAILED TEST B04: FAILED TEST B05: FAILED
+
+(b) Tests 06-10 
+
+TEST B06: FAILED TEST B07: FAILED TEST B08: FAILED TEST B09: FAILED TEST B10: FAILED
+
+-----
+(4) Part C - Print out words in bucket 
+
+(a) Tests 01-05 
+
+TEST C01: passed TEST C02: FAILED TEST C03: FAILED TEST C04: FAILED TEST C05: FAILED
+
+(b) Tests 06-10 
+
+TEST C06: FAILED TEST C07: FAILED TEST C08: FAILED TEST C09: FAILED TEST C10: FAILED
+
+(5) Long words and word counts, and file size (~6M)
+
+(a) Part A
+TEST A11: FAILED TEST A12: FAILED TEST A13: FAILED 
+
+(b) Part B
+
+TEST B11: FAILED TEST B12: FAILED TEST B13: FAILED 
+
+(c) Part C
+
+TEST C11: FAILED TEST C12: FAILED TEST C13: FAILED 
+
+(6) Argument parsing 
+    (no file, bad file, out-of-order, no --sort with --print-words)
+
+Not enough arguments!
+You need at least 3, and you fed me 2! 
+Cannot open file! 
+TEST D03: passed 
+TEST D04: passed 
+
+
+(Bonus) Valgrind
+
+
+
+
+
+-----
+(7) Additional test notes 
+
+- You had print_entries after you freed the linked list so there was no output
+   - I fixed this
+   - make sure you test your programs before submitting
+- All tests for part A passed after fix
+- Only Part A implmented
+-----
+
+-----
+(8) Code inspection
+
+- Why did you try to print the list after it was already freed?
+- Avoid global variables
+- your linked list functions should take parameters to set values 
+
+GRADE
+C+ (5)

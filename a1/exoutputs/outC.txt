@@ -1,0 +1,4 @@
+ount[08]=05; (words: "recorded", "syllable" and "tomorrow")
+Count[03]=03; (words: "and" and "the")
+Count[02]=02; (words: "of" and "to")
+Count[04]=02; (words: "last" and "time")

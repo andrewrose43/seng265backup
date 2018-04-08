@@ -1,0 +1,45 @@
+SENG 265 -- FALL 2017
+ASSIGNMENT #4 EVALUATION
+========================
+
+  Student name:   Rose,Andrew
+  Student number: V00884894
+  Student login:  andrewrose
+
+-----
+(1) table_to_csv.py provided; 
+
+table_to_csv.py found.
+
+-----
+(1) Tests 01-03 : Base tests provided with assignment (C)    
+
+TEST 1: passed TEST 2: passed TEST 3: passed 
+
+
+(2) Tests 04-05 : 2 Extra tests, same format (B) 
+
+TEST 4: FAILED TEST 5: FAILED
+
+
+(2) Tests 06-07 : Full html, empty file (A) 
+
+TEST 6: FAILED 
+
+TEST 7: passed
+
+-----
+(7) Additional test notes 
+
+- Tests 4 and 6 - only outputs 1 of 2 tables
+- Test 5 - produces no output
+
+-----
+
+-----
+(8) Code inspection
+
+Code looks ok
+
+GRADE:
+B+    

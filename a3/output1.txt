@@ -1,0 +1,4 @@
+:RESULTS
+Tsawwassen:
+    Average delay for Feb: 3.33
+END
